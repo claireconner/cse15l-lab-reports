@@ -1,4 +1,7 @@
 *I am testing out everything*
+
+[Lab Report 1](https://claireconner.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 **and this one should be in bold**
 # and this should be a big heading
 ## and this one is smaller
