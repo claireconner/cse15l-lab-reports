@@ -1,6 +1,9 @@
 # How to log into a course-specific account on ieng6:
+**Note: these are the instructions for a Mac and Windows might need extra steps** 
 
 ## 1. Installing VScode
+To download VSCode, you go to the [webstite](https://code.visualstudio.com/) and download it (in this case, the version for a mac). When you open VS Code, it should look like this:
+![Image](vsCode.png)
 
 ## 2. Remotely Connecting
 In order to remotely connect, you must first search up your course-specific account on this website: https://sdacs.ucsd.edu/~icc/index.php. 
