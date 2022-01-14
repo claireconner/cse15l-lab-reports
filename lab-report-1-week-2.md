@@ -33,7 +33,10 @@ Setting the ssh key (as shown below) allows you to skip the process of entering 
 ![Image](sshkey.png)
 
 ## 6. Optimizing Remote Running
-
+To decrease the amount of time it takes to run even further, you can run commands at the same time as you log into the server:
+![Image](commandandssh.png)
+You can even do this and run two commands at the same time: 
+![Image](twocommands.png)
 
 
 
