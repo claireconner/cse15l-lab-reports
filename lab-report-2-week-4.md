@@ -36,7 +36,7 @@ Link to Test File for Bad Input:
 [test-file.md](lab-rep2-photo/test-file-image.md) 
 
 Symptom of Failure: 
-![Image](lab-rep2-photo/imageError.png)
+![Image](lab-rep2-photo/redoBug3.png)
 
 Description: The symptom for this one is pretty interesting, since there is no error that is immediately visible. Rather, the input includes an image, which shouldn't be printed, but it is anyway. 
 
