@@ -3,10 +3,10 @@
 ## First Fix
 
 Code Change:
-![Image](lab-rep2-photo/nofile.png) 
+![Image](lab-rep2-photo/bug1fix.png) 
 
 Link to Test File for Bad Input: 
-There is no link file because the problem with this error is when no file is passed in 
+There is NO TEST FILE because the problem with this bug is when no argument (or file) is passed in 
 
 Symptom of Failure: 
 ![Image](lab-rep2-photo/nofileerror.png)
@@ -17,7 +17,7 @@ Description: The symptom was that there is an index out of bounds error when no 
 ## Second Fix
 
 Code Change:
-![Image](lab-rep2-photo/missingBracket.png) 
+![Image](lab-rep2-photo/bug2fix.png) 
 
 Link to Test File for Bad Input: 
 [test-file.md](lab-rep2-photo/test-file.md) 
@@ -30,7 +30,7 @@ Description: The symptom was that there was a Java Heap error when the input of 
 ## Third Fix
 
 Code Change:
-![Image](lab-rep2-photo/imageinsteadlink.png) 
+![Image](lab-rep2-photo/bug3fix.png) 
 
 Link to Test File for Bad Input: 
 [test-file.md](lab-rep2-photo/test-file-image.md) 
