@@ -1,4 +1,6 @@
 # How to log into a course-specific account on ieng6:
+*click* [here](https://claireconner.github.io/cse15l-lab-reports/) *to go back to index page* 
+
 **Note: these are the instructions for a Mac and Windows might need extra steps** 
 
 ## 1. Installing VScode

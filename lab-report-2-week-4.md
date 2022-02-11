@@ -1,5 +1,7 @@
 # Fixing Bugs from Labs 3 and 4
 
+*click* [here](https://claireconner.github.io/cse15l-lab-reports/) *to go back to index page* 
+
 ## First Fix
 
 Code Change:
