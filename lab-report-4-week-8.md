@@ -8,7 +8,7 @@
 [Other Repository](https://github.com/Stocktocon/markdown-parse)
 
 ## Code Snippet 1
-**Expected Output:** ["'google.com", "google.com", "ucsd.edu"]
+**Expected Output:** `["'google.com", "google.com", "ucsd.edu"]`
 
 **Test** (the same for both repositories):
 
@@ -16,8 +16,8 @@
 
 
 ## Code Snippet 2
-**Expected Output:** ["a.com", "a.com(())", "example.com"]
+**Expected Output:** `["a.com", "a.com(())", "example.com"]`
 
 ## Code Snippet 3
-**Expected Output:** ["https://ucsd-cse15l-w22.github.io/"]
+**Expected Output:** `["https://ucsd-cse15l-w22.github.io/"]`
 
