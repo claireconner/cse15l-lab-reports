@@ -3,7 +3,9 @@
 *click* [here](https://claireconner.github.io/cse15l-lab-reports/) *to go back to index page* 
 
 ## Links to `markdownParse` Repositories
-[My repository](https://github.com/claireconner/markdown-parse)
+[My repository](https://github.com/claireconner/my-markdown-parse)
+
+I had to delete the original repository for lab 5, so the repository would be slightly different (but have the same output)
 
 [Other Repository](https://github.com/Stocktocon/markdown-parse)
 
