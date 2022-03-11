@@ -13,6 +13,9 @@
 2/25/22-
 [Lab Report 4](https://claireconner.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+3/11/22-
+[Lab Report 5](https://claireconner.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
 to spice up this index page, here are some lovely pictures of my dog :)
 
 ![Image](LiliPic1.jpeg)
