@@ -21,6 +21,8 @@ using the CommonMark demo site
 **Output for Other Repository**
 ![Image](lap-rep4-photo/snippet1Output.png)
 
+
+
 ## Code Snippet 2
 **Expected Output:** 
 using the CommonMark demo site
@@ -36,6 +38,7 @@ using the CommonMark demo site
 ![Image](lap-rep4-photo/snippet2Output.png)
 
 
+
 ## Code Snippet 3
 **Expected Output:** 
 using the CommonMark demo site
@@ -49,4 +52,21 @@ using the CommonMark demo site
 
 **Output for Other Repository**
 ![Image](lap-rep4-photo/snippet3Output.png)
+
+
+## Questions
+
+**Snippet 1**
+
+I think there could be a small fix (less than 10 lines) to fix the inline backticks. This could be done by checking for a pair of backticks, and making any input between the backticks be code and not part of the link. 
+
+**Snippet 2**
+
+I think this code could be over ten lines, but what I would try would be making sure to have the innermost pair of brakets and parentheses. I think this would be a more involved change because there isn't one case you have to check for, there are several. We also tried to solve these cases in lab as a group, and we weren't able to cover all cases.
+
+**Snippet 3**
+
+I think there could be a small fix (less than 10 lines) to look for newlines in brackets and parentheses. It looks like it shouldn't work if there is a break/empty line, so I would just restart the search for the first bracket if there is an empty line. 
+
+
 
